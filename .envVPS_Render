@@ -1,0 +1,9 @@
+N8N_EDITOR_BASE_URL=https://n8n-render-lamachine-zuw3.onrender.com
+N8N_HOST=n8n-render-lamachine-zuw3.onrender.com
+N8N_FUNCTION_ALLOW_EXTERNAL=puppeteer
+N8N_PORT=5678
+N8N_PROTOCOL=https
+N8N_USER_FOLDER=
+NODE_VERSION=24
+
+
