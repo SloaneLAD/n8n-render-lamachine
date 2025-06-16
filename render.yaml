@@ -2,7 +2,7 @@ services:
   - type: web
     name: n8n
     env: docker
-    region: oregon
+    region: frankfurt
     plan: starter # optional (defaults to starter)
     branch: main # optional (defaults to master)
     numInstances: 1
@@ -45,5 +45,5 @@ services:
 
 databases:
   - name: n8nDB
-    region: oregon 
-    plan: starter
+    region: frankfurt 
+    plan: free
